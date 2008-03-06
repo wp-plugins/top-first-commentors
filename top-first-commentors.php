@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 /*
-Plugin Name: Top First Comments
+Plugin Name: Top First Commentors
 Plugin URI: http://fairyfish.net/2008/03/06/top-first-commentors/
 Description: The plugin will show the top first commentors (the numner is number is set by user) of your blog.
 Version: 0.1
