@@ -14,7 +14,7 @@ The plugin will show the top first commentors (the numner is number is set by us
 
 == Installation ==
 
-1. Upload the folder top-first-commentors.php to the `/wp-content/plugins/` directory
+1. Upload the file top-first-commentors.php to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `<?php top_first_commentors(); ?>` in your templates
 1. Navigate to Manage > Option > Top First Commentors to configure plugin output.
